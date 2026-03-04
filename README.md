@@ -1,3 +1,3 @@
 # sql-data-warehouse-project
 
-Under Construction 🔨👷‍♂️🔴
+Project Under Construction 🔨👷‍♂️🔴
